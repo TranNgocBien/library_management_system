@@ -1,0 +1,10 @@
+B001,To Kill a Mockingbird,Harper Lee,Fiction,1960,Available
+B002,1984,George Orwell,Dystopian,1949,Borrowed
+B003,Moby Dick,Herman Melville,Adventure,1851,Available
+B004,The Great Gatsby,F. Scott Fitzgerald,Classic,1925,Available
+B005,The Catcher in the Rye,J.D. Salinger,Fiction,1951,Borrowed
+B006,Pride and Prejudice,Jane Austen,Romance,1813,Available
+B007,The Hobbit,J.R.R. Tolkien,Fantasy,1937,Available
+B008,Brave New World,Aldous Huxley,Dystopian,1932,Available
+B009,War and Peace,Leo Tolstoy,Historical,1869,Borrowed
+B010,The Chronicles of Narnia,C.S. Lewis,Fantasy,1950,Available

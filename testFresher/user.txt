@@ -1,0 +1,20 @@
+U001,John Doe,john.doe@example.com,123-456-7890
+B001 B002
+U002,Jane Smith,jane.smith@example.com,234-567-8901
+B003
+U003,Robert Brown,robert.brown@example.com,345-678-9012
+B004 B005
+U004,Emily Davis,emily.davis@example.com,456-789-0123
+B006
+U005,Michael Johnson,michael.johnson@example.com,567-890-1234
+B007 B008
+U006,Sarah Wilson,sarah.wilson@example.com,678-901-2345
+B009
+U007,David Lee,david.lee@example.com,789-012-3456
+B010
+U008,Linda Martinez,linda.martinez@example.com,890-123-4567
+B001 B003
+U009,James Anderson,james.anderson@example.com,901-234-5678
+B002
+U010,Jessica Taylor,jessica.taylor@example.com,012-345-6789
+B004 B005
